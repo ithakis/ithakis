@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ithakis
+- 👋 Hi, I’m @ithakis - Alexander Tsoskounoglou
 - 👀 I’m a Computational Scientist with additional knowledge in AI
 - 🌱 I’m currently studying Computational Science @ University of Amsterdam with a focus at Quantitative Finance.
 - 💞️ I’m looking to collaborate on ...
